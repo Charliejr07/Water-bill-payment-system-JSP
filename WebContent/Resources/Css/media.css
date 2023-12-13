@@ -1,0 +1,159 @@
+@media (min-width:0) and (max-width:500px){
+    html{
+        font-size: 50%;
+    }
+    section{
+        padding: 1.5rem 0;
+    }
+    h2{
+        font-size: 2.4rem;
+    }
+    .hero-section{
+        height: 50vh;
+    }
+    .hero-section .content h1{
+        font-size: 3.5rem;
+        margin-bottom: 0;
+    }
+    .hero-section .content .btn-banner{
+        padding: .8rem 3rem;
+    }
+    .hero-section .content .btn-box{
+        margin-top: 2rem;
+    }
+    .hero-section .scroll-down{
+        bottom: 1.5rem;
+    }
+    .simple-section p{
+        text-align: justify;
+        margin-top: 2rem;
+    }
+    .services-section .card{
+        border: 1px solid #111;
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+    .showcase-section p{
+        margin-top: 2rem;
+    }
+    .showcase-section .gallery{
+        margin-top: 2rem;
+    }
+    .showcase-section .img-box img{
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .contact-section .form-box{
+        margin-top: 1.5rem;
+    }
+    footer{
+        padding: 1rem 0;
+    }
+    footer{
+        text-align: center;
+    }
+    footer ul{
+        margin-top: 1rem;
+    }
+}
+
+@media (min-width:500.01px) and (max-width:768px){
+    html{
+        font-size: 55%;
+    }
+    header nav{
+        padding: .8rem 0!important;
+    }
+    section{
+        padding: 2.2rem 0;
+    }
+    h3{
+         font-size: 1.8rem
+    }
+    h2{
+        font-size: 2.4rem;
+    }
+    p{
+        font-size: 1.5rem;
+    }
+    .hero-section{
+        height: 70vh;
+    }
+    .hero-section .content h1{
+        font-size: 5rem;
+        margin-bottom: 0;
+    }
+    .hero-section .scroll-down{
+        bottom: 2rem;
+    }
+    .simple-section p{
+        margin-top: 2rem;
+    }
+    .services-section .icon-box{
+     height: 5.5rem;
+    width: 5rem;
+    }
+    .services-section .icon-box .fas{
+        font-size: 2.8rem;
+    }
+    .services-section .icon-box{
+        margin-bottom: 1.5rem;
+    }
+    .services-section .svn{
+        margin-bottom: 3.5rem;
+    }
+    .services-section p{
+        font-size: 1.4rem;
+        margin-bottom: 0;;
+    }
+    .showcase-section p{
+        margin-top: 2rem;
+    }
+    .showcase-section .gallery{
+        margin-top: 1.5rem;
+    }
+    .contact-section .form-box{
+        margin-top: 1.5rem;
+    }
+    .form-box{
+        width: 80%;
+    }
+    footer{
+        padding: 2rem 0;
+    }
+}
+@media (min-width:768.01px) and (max-width:1023px){
+    html{
+        font-size: 60%;
+    }
+    header nav{
+    padding: .8rem 0!important;
+    }
+    .hero-section{
+        height: 65vh;
+    }
+    .hero-section .content h1{
+        font-size: 5rem;
+        margin: 0;
+    }
+    .hero-section .content .btn-box{
+    margin-top: 2rem;
+    }  
+    .hero-section .scroll-down{
+        bottom: 2rem;
+    }
+    section{
+        padding: 2rem 0;
+    }
+    .form-box{
+        width: 70%;
+    }
+    footer{
+        padding: 1.5rem 0;
+    }
+}

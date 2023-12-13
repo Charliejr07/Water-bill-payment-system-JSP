@@ -1,0 +1,127 @@
+@media only screen and (max-width: 1200px){
+    .hero-section{
+        height: 55vh;
+    }
+}
+
+
+@media only screen and (max-width: 1024px){
+    html{
+        font-size: 60%;
+    }
+    .hero-section .content h1{
+        font-size: 5rem;
+    }
+    section{
+        padding: 2.5rem 0;
+    }
+    footer{
+        padding: 2.5rem;
+    }
+}
+
+
+@media only screen and (max-width: 768px){
+     html{
+        font-size: 53%;
+    }
+    .hero-section{
+        height: 55vh;
+    }
+    .hero-section .content h1{
+        font-size: 4rem;
+        margin: 0;
+    }
+    .hero-section .content .btn-box{
+        margin-top: 2rem;
+    }
+    .hero-section .scroll-down{
+        bottom: 5rem;
+    }
+    .simple-section p{
+        margin-top: 2rem;
+    }
+    .services-section .card{
+        margin-bottom: 1.5rem;
+    }
+    .services-section .icon-box{
+        margin-bottom: 1.5rem;
+    }
+    .services-section h3{
+        font-size: 1.8rem;
+    }
+    .services-section  .svn{
+        margin-bottom: 3rem;
+    }
+    .showcase-section .gallery {
+        margin-top: 2rem;
+    }
+    .form-box{
+        width: 85%;
+    }
+    .contact-section .form-box{
+        margin-top: 1rem;
+    }
+    footer{
+        padding: 2rem;
+    }
+    footer span{
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    html{
+        font-size: 50%;
+    }
+    .hero-section{
+        height: 50vh;
+    }
+    p{
+        font-size: 1.4rem;
+    }
+    section{
+        padding: 1.5rem 0;
+    }
+    
+    .services-section .card{
+        border: .1rem solid #111;
+        padding: 1.5rem;
+    }
+    .showcase-section .img-box img{
+        display: block;
+        margin: 0 auto;
+    }
+    footer{
+        padding: 1.5rem 0;
+    }
+    footer span{
+        display: block;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    .hero-section{
+        height: 30vh;
+    }
+    .hero-section .content h1{
+        font-size: 3.5rem;
+    }
+     .hero-section .scroll-down{
+        bottom: 5rem;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    html{
+        font-size: 40%;
+    }
+    .hero-section .scroll-down{
+        bottom: 4rem;
+    }
+    .services-section  .svn{
+       margin-bottom: 2rem;
+    }
+}
